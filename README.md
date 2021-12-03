@@ -2,25 +2,18 @@
 
 [Home](https://adventofcode.com/2021/) / [About](https://adventofcode.com/2021/about)
 
-**Table of Contents**
-  - [Day 1: Sonar Sweep](#day-1-sonar-sweep)
-  - [Day 2: Dive!](#day-2-dive)
+## Foreword
+
+First, I focus on the right answer, then I try to keep my code simple. Don't expect performance or optimization since I'm not very familiar with Python. Lastly, I can run the script in the command line, making it very convenient. 
 
 ## Day 1: Sonar Sweep
 
-1. Count the number of times a depth measurement increases from the previous measurement.
-2. Ccunt the number of times the sum of measurements in the three-measurement window increases from the previous sum.
+(Solution)[https://github.com/implete/advent-of-code-2021/blob/main/01/solution.py]
 
-# Day 2: Dive!
+## Day 2: Dive!
 
-1. Calculate the horizontal position and depth you would have after following the planned course. What do you get if you multiply your final horizontal position by your final depth?
-  - forward X increases the horizontal position by X units.
-  - down X increases the depth by X units.
-  - up X decreases the depth by X units.
+(Solution)[https://github.com/implete/advent-of-code-2021/blob/main/02/solution.py]
 
-2. What do you get if you multiply your final horizontal position by your final depth?
-  - down X increases your aim by X units.
-  - up X decreases your aim by X units.
-  - forward X does two things:
-    - It increases your horizontal position by X units.
-    - It increases your depth by your aim multiplied by X.
+## Day 3: Binary Diagnostic
+
+(Solution)[https://github.com/implete/advent-of-code-2021/blob/main/03/solution.py]
