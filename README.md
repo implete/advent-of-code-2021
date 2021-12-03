@@ -8,12 +8,12 @@ First, I focus on the right answer, then I try to keep my code simple. Don't exp
 
 ## Day 1: Sonar Sweep
 
-(Solution)[https://github.com/implete/advent-of-code-2021/blob/main/01/solution.py]
+[Solution](https://github.com/implete/advent-of-code-2021/blob/main/01/solution.py)
 
 ## Day 2: Dive!
 
-(Solution)[https://github.com/implete/advent-of-code-2021/blob/main/02/solution.py]
+[Solution](https://github.com/implete/advent-of-code-2021/blob/main/02/solution.py)
 
 ## Day 3: Binary Diagnostic
 
-(Solution)[https://github.com/implete/advent-of-code-2021/blob/main/03/solution.py]
+[Solution](https://github.com/implete/advent-of-code-2021/blob/main/03/solution.py)
